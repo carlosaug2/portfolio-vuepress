@@ -1,8 +1,8 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly, we work for fun."
+hero_text: "<strong>Somos a Acme</strong> , trabalhamos para marcas. Mas o mais importante,
+  trabalhamos para nos divertir."
 title: Hero
 
 ---
-<Hero :text="$page.frontmatter.hero_text" />
-<WorksList />
+<Hero: text = "$ page.frontmatter.hero_text" /> <WorksList />
